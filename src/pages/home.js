@@ -801,8 +801,7 @@ class Home extends Component {
                                                 <div className="col-md-12">
                                                     <div className="input-group">
                                                         <label for="message">message</label>
-                                                        <textarea name="message" id="message"
-                                                            placeholder="Wrire your message here ..."></textarea>
+                                                        <textarea name="message" id="message" placeholder="Write your message here ..."></textarea>
                                                     </div>
                                                 </div>
                                                 <div className="col-md-12">
